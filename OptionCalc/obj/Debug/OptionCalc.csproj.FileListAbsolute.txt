@@ -1,1 +1,4 @@
 C:\Anton\C#\OptionCalc\OptionCalc\bin\Debug\OptionCalc.exe.config
+C:\Anton\C#\OptionCalc\OptionCalc\obj\Debug\OptionCalc.csprojResolveAssemblyReference.cache
+C:\Anton\C#\OptionCalc\OptionCalc\obj\Debug\App.g.cs
+C:\Anton\C#\OptionCalc\OptionCalc\obj\Debug\OptionCalc_MarkupCompile.cache

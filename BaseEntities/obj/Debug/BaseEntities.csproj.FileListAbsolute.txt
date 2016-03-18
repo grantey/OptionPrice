@@ -1,0 +1,1 @@
+C:\Anton\C#\OptionCalc\BaseEntities\obj\Debug\BaseEntities.csprojResolveAssemblyReference.cache
